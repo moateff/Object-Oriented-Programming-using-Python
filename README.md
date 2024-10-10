@@ -26,7 +26,6 @@ Object-Oriented Programming (OOP) is a programming paradigm that organizes softw
 - Attributes: Variables that hold data related to a class and its instances. They describe the state or properties of an object.
 - Methods: Functions defined inside a class that describe the behaviors and actions of an object.
 
----
 
 ## Encapsulation
 - Encapsulation restricts access to certain components of an object to protect its internal state.
